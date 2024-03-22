@@ -1,0 +1,5 @@
+curl -X POST \
+  http://localhost:9080 \
+  -d 'username=admin&password=admin123'
+
+
